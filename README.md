@@ -1,7 +1,7 @@
 Hi 👋 My name is Pavel Nikiforov
 ================================
 
-Java Backend, Spring web developer
+Junior /trainee Java Backend, Spring web developer
 ----------------------------------
 
 * 🌍  I'm based in Minsk
